@@ -1,0 +1,18 @@
+p {
+  font-family: Lato;
+}
+
+.align {
+  height: 10;
+  width: 50;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.button {
+  padding-top: 1%;
+  margin-left: 110px;
+}
+.parent {
+  display: flex;
+}
